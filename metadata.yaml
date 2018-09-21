@@ -1,0 +1,35 @@
+_repo: Venalaisia-talonpoikia_54512
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Vuoriniemi, J. G.
+    gutenberg_agent_id: '47908'
+    url: http://www.gutenberg.org/2009/agents/47908
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Tschechow, Anton
+    - Чехов, Антон Павлович
+    - Chekov, Anton Pavlovich
+    - Tchekhov, Anton
+    - Tchekhoff, Anton
+    - Tshehov, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2017-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54512'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Venäläisiä talonpoikia
+url: http://www.gutenberg.org/ebooks/54512
